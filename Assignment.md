@@ -2,10 +2,10 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**:146093
+- **Admission Number**:Peris Mwangi
+- **GitHub Username**: Lionmjr
+- **Email**:peris.nyambura@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
