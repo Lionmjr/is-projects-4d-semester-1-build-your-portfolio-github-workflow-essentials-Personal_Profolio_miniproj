@@ -58,7 +58,9 @@ The image above demonstrates the number of issues created. The issues are linked
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![image](https://github.com/user-attachments/assets/de7191a9-a3ed-4e39-9718-436b3bb67f05)
+Above is an image of my project board with the list of items that have been completed!
+
 
 ### C. Branching
 
